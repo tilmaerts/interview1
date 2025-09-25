@@ -1,2 +1,2 @@
 
-# child interviewing prompt generator
+# interviewing prompt generator
